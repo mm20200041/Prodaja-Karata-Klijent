@@ -1,5 +1,5 @@
 config.properties
 *.pdf
-build/
+/build/
 *.class
-nbproject/private/
+/nbproject/private/
