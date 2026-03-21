@@ -9,6 +9,7 @@ import domen.Utakmica;
 import domen.Zaposleni;
 import java.awt.event.ActionListener;
 import javax.swing.JComboBox;
+import javax.swing.JFrame;
 import javax.swing.JTable;
 import javax.swing.JTextField;
 
@@ -23,6 +24,7 @@ public class PrikazRacunaForma extends javax.swing.JFrame {
      */
     public PrikazRacunaForma() {
         initComponents();
+        setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
     }
 
     /**

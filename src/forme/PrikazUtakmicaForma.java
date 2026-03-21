@@ -7,6 +7,7 @@ package forme;
 import domen.Hala;
 import java.awt.event.ActionListener;
 import javax.swing.JComboBox;
+import javax.swing.JFrame;
 import javax.swing.JTable;
 import javax.swing.JTextField;
 
@@ -21,6 +22,7 @@ public class PrikazUtakmicaForma extends javax.swing.JFrame {
      */
     public PrikazUtakmicaForma() {
         initComponents();
+        setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
     }
 
     /**

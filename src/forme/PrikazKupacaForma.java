@@ -6,6 +6,7 @@ package forme;
 
 import java.awt.event.ActionListener;
 import javax.swing.JButton;
+import javax.swing.JFrame;
 import javax.swing.JTable;
 import javax.swing.JTextField;
 
@@ -20,6 +21,7 @@ public class PrikazKupacaForma extends javax.swing.JFrame {
      */
     public PrikazKupacaForma() {
         initComponents();
+        setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
     }
 
     /**
