@@ -1,5 +1,5 @@
-# Klijentska aplikacija
+# Server Application
 
-Ovaj repozitorijum predstavlja klijentsku komponentu sistema za prodaju i validaciju ulaznica.
+This repository contains the server-side component of the ticket sales and validation system.
 
-👉 Glavni projekat: https://github.com/mm20200041/Prodaja-Karata
+👉 Main project: https://github.com/mm20200041/Prodaja-Karata
